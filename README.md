@@ -1,1 +1,1 @@
-# BS-thesis-code
+pure contagion dynamics.py - description
